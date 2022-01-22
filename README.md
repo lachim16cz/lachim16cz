@@ -1,4 +1,4 @@
-- Hi, I am primarily a web application developer and programmer.
+## Hi, I am primarily a web application developer and programmer.
 ###### I am good at
 - PHP, JS, CSS 3 and HTML 5
 - Fanuc
